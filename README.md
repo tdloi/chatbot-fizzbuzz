@@ -16,6 +16,11 @@ The chat bot will reply the predefined text when the user send a message with pr
 | [any number divided by 5]	    | Beautiful
 | [any number divided by 3 & 5]	| Hello Kitty
 
+<details> 
+<summary><b>Result image</b></summary>
+<img src="results.png" alt="result-image">
+</details>
+
 ## Usage
 You can host this on heroku (or other host) easily with heroku command
 ```
